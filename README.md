@@ -10,4 +10,4 @@ This is simple mobile responsive website made to demonstrate my abilty to use ne
 
 **Tech used:** Next.js and TailwindCSS
 
-The project was for part of an interview test and it is mostly UI. Next.js was used because i wanted to learn the new features added to Next.js 13. 
+The project was for part of an interview test and it is focused on UI. Next.js was used because i wanted to learn the new features added to Next.js 13. 
